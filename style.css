@@ -1,0 +1,18 @@
+.bg-green {
+    background-color: #28a745;
+}
+
+.nav-link {
+    size: 1px;
+    color: lightgray !important;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+.navbar-collapse {
+    text-align: center;
+  }
